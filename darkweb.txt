@@ -1,0 +1,7 @@
+________________________________________________________________________________
+# darkweb
+
+- https://torproject.org
+    > http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion
+
+- http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion : hidden wiki

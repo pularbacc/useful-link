@@ -1,0 +1,8 @@
+_______________________________________________________________________________
+# network
+
+- https://netacad.com
+- https://www.cisco.com
+- https://digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols
+- http://icanhazip.com : check my ip
+- https://www.networkworld.com : blog network

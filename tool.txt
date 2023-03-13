@@ -1,0 +1,5 @@
+_______________________________________________________________________________
+# tools
+
+- https://switowski.com/blog/favorite-cli-tools
+- https://github.com/agarrharr/awesome-cli-apps

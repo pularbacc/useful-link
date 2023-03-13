@@ -1,0 +1,7 @@
+_______________________________________________________________________________
+# editor
+
+- https://marketplace.visualstudio.com
+- https://sites.google.com/site/e3editor
+- https://opensource.com/article/20/2/how-install-vim-plugins
+- https://vimconfig.com

@@ -1,0 +1,36 @@
+_______________________________________________________________________________
+# art
+
+- https://twitter.com/bernoid : mushroom
+
+_______________________________________________________________________________
+# entertainment
+
+- https://bestprettygirl.com/tag/jang-joo
+
+_______________________________________________________________________________
+# game
+
+- https://developer.mozilla.org/en-US/docs/Games
+- https://html5gameengine.com
+- https://developer.mozilla.org/en-US/docs/Tools/Performance/Scenarios/Intensive_JavaScript
+- https://webglfundamentals.org
+- https://toptal.com/javascript/3d-graphics-a-webgl-tutorial
+- https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
+- https://threejs.org
+- https://alexanderperrin.com.au/paper/shorttrip
+
+- https://dwarffortresswiki.org
+
+_______________________________________________________________________________
+# ASCII
+
+- https://en.wikipedia.org/wiki/ASCII_art
+- http://nerd-boy.net/nerdboypak.php : nerd-boy book
+- https://sites.google.com/site/asciisandbox : sandbox
+- https://asciiart.eu : art
+- http://network-science.de/ascii : ASCII text generator full
+- https://textkool.com/en/ascii-art-generator : ASCII text generator
+- https://stonestoryrpg.com/ascii_tutorial.html
+- https://asciiart.cc
+

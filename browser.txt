@@ -1,0 +1,25 @@
+_______________________________________________________________________________
+# browser
+
+- https://en.wikipedia.org/wiki/List_of_web_browsers
+- https://firefox-source-docs.mozilla.org
+- https://html5rocks.com/en/tutorials/internals/howbrowserswork
+- https://mycroftproject.com : Find Search Engine Plugins
+- https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly : shorcut firefox
+
+- https://howtogeek.com/334716/how-to-customize-firefoxs-user-interface-with-userchrome.css
+
+
+_______________________________________________________________________________
+# search engine
+
+- https://duckduckgo.com
+    > https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
+- https://ahmia.fi
+    > http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion
+
+- http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion : torch search
+
+- https://onionengine.com
+
+- https://you.com

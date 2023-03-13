@@ -1,0 +1,18 @@
+_______________________________________________________________________________
+# linux
+
+- https://kernel.org
+- https://linuxtorvalds.com
+- https://github.com/torvalds
+
+- https://linuxfromscratch.org
+- https://educba.com/linux-from-scratch
+- https://itsfoss.com/switch-kernels-arch-linux
+- https://javatpoint.com/bash-read-file
+- https://tutorialspoint.com/unix/unix-basic-operators.htm
+
+- https://wiki.archlinux.org
+- https://averagelinuxuser.com/dual-boot-arch-linux-with-linux : using os-prober
+- https://itsfoss.com/install-arch-linux
+
+- https://kali.org

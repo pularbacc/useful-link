@@ -1,0 +1,29 @@
+_______________________________________________________________________________
+# security
+
+- https://hackerone.com
+- https://facebook.com/whitehat
+
+- https://hackertarget.com/ip-tools : check network
+- https://dnsdumpster.com
+
+_______________________________________________________________________________
+# learn security
+
+- https://portswigger.net
+- https://portswigger.net/burp/documentation/desktop
+- https://hacker101.com
+
+- https://networkchuck.com
+- https://wiki.bi0s.in
+- https://hacksplaining.com
+
+- https://picoctf.org
+- https://hackthebox.com
+- https://tryhackme.com
+
+- https://youtube.com/@NetworkChuck
+- https://youtube.com/@_JohnHammond
+- https://youtube.com/@ChrisGreer
+
+- https://www.cybrary.it
